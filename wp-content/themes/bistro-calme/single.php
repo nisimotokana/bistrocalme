@@ -2,6 +2,8 @@
 
 	<h2 class="pageTitle">最新情報<span>NEWS</span></h2>
 
+	<?php get_template_part('get_template_part/breadcrumb') ?>
+
 	<main class="main">
 		<div class="container">
 			<div class="row">

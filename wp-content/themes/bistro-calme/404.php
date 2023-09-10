@@ -7,5 +7,4 @@
 			<p>申し訳ございませんが、<a href="<?= home_url('/') ?>">こちらのリンク</a>からトップページにお戻りください。</p>
 		</div>
 	</div>
-	<div class="pagetop js-pagetop"><i class="fas fa-angle-up"></i>PAGE TOP</div>
 <?php get_footer() ?>
